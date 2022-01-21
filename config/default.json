@@ -1,0 +1,5 @@
+{
+    "db":"mongodb+srv://s_mdhaffar:sM06081982@cluster0.fxgmx.mongodb.net/auth?retryWrites=true&w=majority",
+    "PORT":"5000",
+    "secret":"shhh"
+}
